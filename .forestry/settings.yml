@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: IT/file1
+  label: Test
+  match: "**/*"
 - type: heading
   label: Social Media
 - type: heading
