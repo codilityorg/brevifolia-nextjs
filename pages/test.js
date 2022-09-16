@@ -1,1 +1,1 @@
-"\"\\\"Content of the blobfffffffffff sadasdas scacadcdsacsd\\\"\" vcxvx vxxvxcvxcvxc"
+"I have new content now"
